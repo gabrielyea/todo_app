@@ -1,3 +1,3 @@
-# tTodo app
+# Todo app
 
 Sample app testing riverpod state manager
